@@ -1,0 +1,44 @@
+PREORDER
+Es un animal domestico
+maulla
+gato
+vuela
+perico
+tiene orejas largas
+conejo
+perro
+ruje
+corre rÃƒÂ¡pidp
+leopardo
+leÃƒÂ³n
+vive en el mar
+es carnivoro
+tiburon
+delfin
+vive en la sabana
+guepardo
+tiene cola
+mono
+cocodrilo
+INORDER
+gato
+maulla
+perico
+vuela
+conejo
+tiene orejas largas
+perro
+Es un animal domestico
+leopardo
+corre rÃƒÂ¡pidp
+leÃƒÂ³n
+ruje
+tiburon
+es carnivoro
+delfin
+vive en el mar
+guepardo
+vive en la sabana
+mono
+tiene cola
+cocodrilo
